@@ -65,7 +65,7 @@ NO = {'no', 'n'}
 ###   INPUT & WEB CRAWL  ###
 ############################
 
-os.system("clear")
+clear_screen()
 madox(typing_speed=0.009)
 message(typing_speed=0.08, pause_time=4)
 
