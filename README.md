@@ -1,6 +1,6 @@
 # MADOX
 <p align="center">
-  <img src="Screenshot1.png" alt="MADOX Logo" width="400" height="400"/>
+  <img src="Screenshot1.png" alt="MADOX Logo" width="800" height="800"/>
 </p>
 
 MADOX is a Python-based penetration testing tool for cloning websites and capturing form submissions.  
