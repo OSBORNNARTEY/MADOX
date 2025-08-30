@@ -6,6 +6,14 @@
 MADOX is a Python-based penetration testing tool for cloning websites and capturing form submissions.  
 It allows security researchers to simulate phishing scenarios and analyze web application behavior.
 
+<p align="center">
+  <img src="Screenshot2.png" alt="MADOX Logo" width="800" height="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot3.png" alt="MADOX Logo" width="800" height="800"/>
+</p>
+
 > ⚠️ **Disclaimer:** This tool is developed strictly for educational and ethical penetration testing purposes.  
 > Unauthorized use against systems you don’t own or have explicit permission to test is illegal.  
 > The author is not responsible for any misuse of this tool.
